@@ -8,3 +8,4 @@ New wirh New
 Ading for rebase
 Adding new in master for rebase conflict
 Adding new in myfetaure for rebase conflict
+Remote: master file changed.
