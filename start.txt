@@ -6,5 +6,4 @@ New wirh New
 
 
 Ading for rebase
-
 Adding new in master for rebase conflict
